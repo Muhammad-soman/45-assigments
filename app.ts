@@ -1,3 +1,5 @@
-let qoute: string = "A person never made a mistake never tried anything new";
+let qoute: string = "We cannot solve our problems with the same thinking we used to create them."
+;
 let author: string = "Albert Einstein "
-console.log(`${author} once said, "${qoute}`);
+let message=`${author} once said, "${qoute}`;
+console.log(message)

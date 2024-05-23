@@ -1,4 +1,4 @@
-"use strict";
-let qoute = "A person never made a mistake never tried anything new";
-let author = "Albert Einstein ";
-console.log(`${author} once said, "${qoute}`);
+var qoute = "We cannot solve our problems with the same thinking we used to create them.";
+var author = "Albert Einstein ";
+var message = "".concat(author, " once said, \"").concat(qoute);
+console.log(message);
