@@ -1,4 +1,5 @@
-var qoute = "We cannot solve our problems with the same thinking we used to create them.";
-var author = "Albert Einstein ";
-var message = "".concat(author, " once said, \"").concat(qoute);
-console.log(message);
+"use strict";
+var personName = "\n\t BABAR AZAM\t\n";
+console.log(personName);
+var stripped = personName.trim();
+console.log(stripped);
